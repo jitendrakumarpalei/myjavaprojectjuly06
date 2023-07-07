@@ -1,4 +1,8 @@
 this is my 1st line by dev a
 2nd java line by dev b
 3rd java line by dev A
+<<<<<<< HEAD
 4th java line by dev A
+=======
+4th java line by dev b
+>>>>>>> c578f92f1b0b0016b13b92e2bbda1c3befdd6724
